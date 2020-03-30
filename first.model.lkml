@@ -20,5 +20,5 @@ include: "/views/*.view"                # include all views in the views/ folder
 # }
 
 explore: sql_runner_query {
-
+  label: "desired label"
 }
